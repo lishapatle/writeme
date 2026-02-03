@@ -13,7 +13,7 @@ export function Footer() {
             Share your thoughts with the world
           </p>
           <p className="text-xs text-muted-foreground/60">
-            Created by <span className="text-primary">Vaishnavi Bais</span>
+            Created by <span className="text-primary">Lisha Patle</span>
           </p>
         </div>
       </div>
